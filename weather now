@@ -1,0 +1,17 @@
+src/
+ ├── components/
+ │   └── WeatherCard.jsx      → Displays weather info
+ ├── App.jsx                  → Main logic, API calls, UI layout
+ ├── index.css                → Tailwind + global styles
+ └── main.jsx                 → Entry point
+🧠 Learning Highlights
+
+Through this project, I learned to:
+
+Integrate third-party APIs with React using fetch
+
+Manage multiple React states (loading, error, and data)
+
+Use Tailwind CSS for responsive UI
+
+Store and retrieve user preferences using localStorage
